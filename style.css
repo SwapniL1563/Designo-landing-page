@@ -215,7 +215,7 @@ ul li:hover:after {
     height: 98%;
     width: 48%;
     margin:1.5% 1.5% 1% 2%;
-    background-image: url(image3.jpg);
+    background-image: url(/images/image3.jpg);
     background-size: cover;
     background-position: 50%;
     display: flex;
@@ -260,7 +260,7 @@ ul li:hover:after {
 
 .link2 {
     position: relative;
-    background-image: url(images/image2.jpg) ;
+    background-image: url(/images/image2.jpg) ;
     background-size: cover;
     margin: 2.5%;
     height: 48%;
@@ -299,7 +299,7 @@ ul li:hover:after {
 
 .link3 {
     position: relative;
-    background-image: url(images/image.jpg) ;
+    background-image: url(/images/image.jpg) ;
     background-size: cover;
     height: 48%;
     margin: 2%;
