@@ -260,7 +260,7 @@ ul li:hover:after {
 
 .link2 {
     position: relative;
-    background-image: url(/images/image2.jpg) ;
+    background-image: url(../images/image2.jpg) ;
     background-size: cover;
     margin: 2.5%;
     height: 48%;
@@ -299,7 +299,7 @@ ul li:hover:after {
 
 .link3 {
     position: relative;
-    background-image: url(/images/image.jpg) ;
+    background-image: url(../images/image.jpg) ;
     background-size: cover;
     height: 48%;
     margin: 2%;
