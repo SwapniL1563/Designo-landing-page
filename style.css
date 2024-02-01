@@ -215,7 +215,7 @@ ul li:hover:after {
     height: 98%;
     width: 48%;
     margin:1.5% 1.5% 1% 2%;
-    background-image: url("https://github.com/SwapniL1563/Designo-landing-page/blob/main/images/image3.jpg?raw=true");
+    background-image: url(https://github.com/SwapniL1563/Designo-landing-page/blob/main/images/image3.jpg?raw=true);
     background-size: cover;
     background-position: 50%;
     display: flex;
