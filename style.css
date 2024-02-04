@@ -215,7 +215,7 @@ ul li:hover:after {
     height: 98%;
     width: 48%;
     margin:1.5% 1.5% 1% 2%;
-    background-image: url(image3.jpg);
+    background-image: url("image3.jpg");
     background-size: cover;
     background-position: 50%;
     display: flex;
