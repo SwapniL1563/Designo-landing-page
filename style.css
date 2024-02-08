@@ -38,7 +38,7 @@ ul li {
     font-size: 1.05rem;
     font-weight: 500;
     cursor: pointer;
-    position: relative;
+/*     position: relative; */
 }
 
 ul li:after {
