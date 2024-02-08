@@ -93,7 +93,7 @@ ul li:hover:after {
  .hidebar li {
     color: white;
     font-size: 1.4rem;
-    clear:both;
+     display:inline;
  }
 
  .show {
